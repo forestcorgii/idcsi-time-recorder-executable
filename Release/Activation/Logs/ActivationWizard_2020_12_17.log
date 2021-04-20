@@ -1,0 +1,16 @@
+2020-12-17 14:51:53 - Neurotec.Net.Sockets.NSocketException (11001): No such host is known.
+
+   at GetAddrInfoW
+   --- End of external call stack ---
+   --- End of unmanaged stack trace ---
+   at Neurotec.NResult.RaiseError(Int32 error)
+   at Neurotec.Licensing.NLicense.GetLicenseInfoOnline(String license)
+   at Neurotec.ActivationWizard.Misc.NLicenseInfoEx.FromData(String data, NLicenseInfoType type, NLicenseInfoSourceType sourceType)
+2020-12-17 14:51:53 - Neurotec.Net.Sockets.NSocketException (11001): No such host is known.
+
+   at GetAddrInfoW
+   --- End of external call stack ---
+   --- End of unmanaged stack trace ---
+   at Neurotec.NResult.RaiseError(Int32 error)
+   at Neurotec.Licensing.NLicense.GetLicenseInfoOnline(String license)
+   at Neurotec.ActivationWizard.Misc.NLicenseInfoEx.FromData(String data, NLicenseInfoType type, NLicenseInfoSourceType sourceType)

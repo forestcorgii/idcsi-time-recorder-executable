@@ -1,0 +1,5 @@
+<config>
+  <options>
+    <property name="Products" value="VeriLook Standard SDK;VeriLook Extended SDK;" type="str" />
+  </options>
+</config>

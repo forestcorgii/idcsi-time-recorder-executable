@@ -1,0 +1,315 @@
+2019-09-25 14:48:56 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 14:49:24 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 14:49:50 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 14:50:25 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 14:51:09 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 14:51:40 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 14:52:13 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 14:52:45 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 14:53:20 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 14:53:54 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 14:54:27 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 14:55:03 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 14:55:36 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 14:56:13 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 14:56:47 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 14:57:20 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 14:57:53 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 14:58:28 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 14:58:59 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 14:59:33 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:00:07 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:00:40 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:01:11 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:01:45 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:02:16 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:02:48 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:03:20 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:03:56 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:04:29 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:05:03 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:05:38 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:06:11 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:06:44 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:07:18 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:07:49 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:08:21 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:08:53 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:09:29 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:10:00 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:10:35 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:11:07 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:11:44 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:12:18 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:12:51 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:13:22 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:13:57 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:14:33 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:15:07 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:15:39 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:16:13 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:16:46 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:17:20 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:17:51 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:18:26 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:19:00 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:19:37 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:20:11 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:20:43 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:21:17 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:21:50 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:22:26 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:24:27 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
+2019-09-25 15:24:59 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Neurotec.ActivationWizard.Misc.TrialLicenseDetails.GetUsed()
+   at Neurotec.ActivationWizard.Forms.MainForm.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
